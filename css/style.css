@@ -1,0 +1,147 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:700');
+@import url('https://fonts.googleapis.com/css?family=Lora:400i');
+@import url('https://fonts.googleapis.com/css?family=Kanit:200,200i');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400i');
+
+.contenedor{
+	width: 100%;
+}
+
+aside {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 19px;
+}
+
+header {
+	font-family: 'Open Sans', sans-serif;
+}
+img {
+	position:relative;
+	top:14px;
+	bottom:;
+	right:;
+	left:30px;
+}
+header #subheader nav ul li {
+padding: 10px;
+}
+header #subheader nav ul li {
+	display:inline;
+	font-size: 19px;
+	position:relative;
+	top: 0px;
+	bottom:;
+	right:;
+	left:1164px;
+
+}
+h3 {
+font-family: 'Open Sans', sans-serif;
+font-size: 51px;
+line-height: 85%;
+}
+section {
+position:relative;
+	top: 0px;
+	bottom:;
+	right:;
+	left:308px;	
+}
+p {
+	font-family: 'Noto Serif', serif;
+	font-size: 25px;
+}
+
+h6{
+	font-family: 'Kanit', sans-serif;
+	font-size: 26px;
+}
+.fe1{
+	position:relative;
+	top: 0px;
+	bottom:;
+	right:;
+	left:0px;	
+}
+.par1{
+	position:relative;
+	top: 0px;
+	bottom:;
+	right:;
+	left:0px;
+}
+.fe2{
+	position:relative;
+	top: 0px;
+	bottom:;
+	right:;
+	left:0px;	
+}
+.par2{
+	position:relative;
+	top: 0px;
+	bottom:;
+	right:;
+	left:0px;
+}
+.art1{
+    position:relative;
+	top: -250px;
+	bottom:;
+	right:;
+	left:0px;
+}
+.art2{
+    position:relative;
+	top: -250px;
+	bottom:;
+	right:;
+	left:0px;
+}
+.li2{
+	position:relative;
+	top:;
+	bottom:;
+	right:;
+	left:30px;
+}
+footer{
+	position:relative;
+	top: -140px;
+	bottom:;
+	right:;
+	left: 25px;
+}
+.lin1{
+	position:relative;
+	top: 0px;
+	bottom:;
+	right:;
+	left:;	
+}
+.lin2{
+	position:relative;
+	top: -140px;
+	bottom:;
+	right:;
+	left:;	
+}
+.foot{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+aside ul li {
+	font-size: 19px;
+	position:relative;
+	top: 20px;
+	bottom:;
+	right:;
+	left: 20px;
+}
+aside ul li {
+list-style: none;
+padding: 10px;
+}
+
